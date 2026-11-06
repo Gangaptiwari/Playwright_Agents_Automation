@@ -1,0 +1,43 @@
+- generic [ref=e433]:
+  - generic [ref=e434]:
+    - banner [ref=e435]:
+      - generic [ref=e436]:
+        - generic:
+          - generic:
+            - generic [ref=e437]:
+              - button "Open Menu" [ref=e438] [cursor=pointer]
+              - img "Open Menu" [ref=e439]
+            - generic [ref=e466]:
+              - navigation [ref=e468]:
+                - button "All Items" [active] [ref=e469] [cursor=pointer]
+                - button "Dynamic Catalog" [ref=e470] [cursor=pointer]
+                - link "About" [ref=e472] [cursor=pointer]:
+                  - /url: https://saucelabs.com/
+                - button "Logout" [ref=e473] [cursor=pointer]
+                - button "Reset App State" [ref=e474] [cursor=pointer]
+              - generic [ref=e475]:
+                - button "Close Menu" [ref=e476] [cursor=pointer]
+                - img "Close Menu" [ref=e477]
+        - generic [ref=e440]: Swag Labs
+        - button "Cart, empty" [ref=e443]
+      - button "Back to products" [ref=e446] [cursor=pointer]
+    - main [ref=e447]:
+      - generic [ref=e449]:
+        - img "Test.allTheThings() T-Shirt (Red)" [ref=e451]
+        - generic [ref=e452]:
+          - generic [ref=e453]: Test.allTheThings() T-Shirt (Red)
+          - generic [ref=e454]: This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+          - generic [ref=e455]: $15.99
+          - button "Add to cart" [ref=e456] [cursor=pointer]
+  - contentinfo [ref=e457]:
+    - list [ref=e458]:
+      - listitem [ref=e459]:
+        - link "X" [ref=e460] [cursor=pointer]:
+          - /url: https://x.com/saucelabs
+      - listitem [ref=e461]:
+        - link "Facebook" [ref=e462] [cursor=pointer]:
+          - /url: https://www.facebook.com/saucelabs
+      - listitem [ref=e463]:
+        - link "LinkedIn" [ref=e464] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/sauce-labs/
+    - generic [ref=e465]: © 2026 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy
